@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\PracticaInicial\PracticaInicial.mcppi
+Project1=..\Practica01\Practica01.mcppi
+Project2=Practica02.mcppi
+[ActiveProject]
+Index=2
