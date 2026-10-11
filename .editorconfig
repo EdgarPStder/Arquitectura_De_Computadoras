@@ -1,0 +1,13 @@
+# https://editorconfig.org
+# mikroC PRO for PIC guarda los fuentes en Windows-1252 con CRLF;
+# no se fuerza UTF-8 para no corromper acentos en los comentarios.
+root = true
+
+[*]
+insert_final_newline = true
+indent_style = space
+indent_size = 2
+
+[*.md]
+charset = utf-8
+end_of_line = lf

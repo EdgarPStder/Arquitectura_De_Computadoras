@@ -1,0 +1,25 @@
+# Archivos generados por mikroC PRO for PIC al compilar.
+# Se conservan: .c (fuente), .cfg (bits de configuración),
+# .mcppi / .mcpigroup (proyecto) y .hex (firmware listo para grabar o simular).
+*.asm
+*.lst
+*.dbg
+*.mcl
+*.cp
+*.bmk
+*.brk
+*.dct
+*.dlt
+*.log
+*.user.dic
+*.c.ini
+*_callertable.txt
+
+# Respaldos de Proteus
+*.pdsbak
+Backup Of *.pdsprj
+*.workspace
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
